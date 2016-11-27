@@ -1,2 +1,2 @@
 # dog
-this is sweet frogs
+this is sweet dogs
